@@ -1,0 +1,37 @@
+body{
+	background-color: #D083A3
+}
+h1{
+	font-family: verdana;
+	color: beige;
+	text-align: center;
+	
+}
+hr{
+	font-size: 10px;
+}
+.imagen{
+	display: inline-block;
+	position: relative;
+}
+img{
+	
+	height: 250px;
+	width: 250px;
+	margin: 50px;
+	margin-left: 100px;
+}
+p{
+	display: inline-block;
+	font-family: verdana;
+	color: white;
+	position: absolute;
+	margin-top:280px;
+	margin-left:-100px 
+}
+#sue{
+	left:50px;
+}
+#andy{
+	top 100px;
+}
